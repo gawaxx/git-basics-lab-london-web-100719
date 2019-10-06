@@ -1,1 +1,7 @@
 /node_modules
+
+git innit my-repository
+
+git add README.md 
+git commit add README.md 
+git push README.md
